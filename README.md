@@ -3,10 +3,15 @@
 ## Deskripsi
 
 Konfigurasi untuk merubah konfigurasi grafik agar lancar untuk hp kentang serasa pake redmagic.
-Disini ada beberapa konfigurasi grafis yang di buat untuk memaksimalkan kinerja GPU (Caranya ngurangin beban kerja gpu, kalo ngilangin beban ortu masih susah huhuhu T-T)
+
+Disini ada beberapa konfigurasi grafis yang di buat untuk memaksimalkan kinerja GPU 
+(Caranya ngurangin beban kerja gpu, kalo ngilangin beban ortu masih susah huhuhu T-T)
+
 Konfigurasi ini masih dalam tahap pembuatan jadi kadang masih ada masalah dikit.
 ## Description 
-Graphics configuration to make it smooth for mobile device. Here I'm make some graphics configurations that are made to maximize GPU performance (The way to reduce the GPU workload by reducing some effect) This configuration is still on development progress stage so sometimes there are still a few problems.
+Graphics configuration to make it smooth for mobile device. 
+Here I'm make some graphics configurations that are made to maximize GPU performance (The way to reduce the GPU workload by reducing some effect) 
+This configuration is still on development progress stage so sometimes there are still a few problems.
 # How to use
 To use this configuration first you need to copy `engine.ini` & `deviceprofile.ini` to
 ```bash
