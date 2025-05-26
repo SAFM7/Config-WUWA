@@ -32,7 +32,7 @@ Hp gua root jadinya ribet kalo mau folder datanya wkwk
 
 ## Contact
 ![](https://dcbadge.limes.pink/api/shield/1268259084906266696)
-[![IWHYKTUSP](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](Instagram.com/iwhyktusp)
+[![IWHYKTUSP](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://Instagram.com/iwhyktusp)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/iwhyktusp?s=09)
 
 ## How I make this configuration 
