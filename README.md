@@ -31,7 +31,7 @@ Hp gua root jadinya ribet kalo mau folder datanya wkwk
 
 
 ## Contact
-![Discord](https://dcbadge.limes.pink/api/shield/1268259084906266696)](https://discord.com/users/1268259084906266696)
+[![Discord](https://dcbadge.limes.pink/api/shield/1268259084906266696)](https://discord.com/users/1268259084906266696)
 
 [![IWHYKTUSP](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://Instagram.com/iwhyktusp)
 
